@@ -88,5 +88,9 @@ Contributions are what make the open-source community such an amazing place to l
 
 ## Please give a star ⭐ to the repository if you like it.
 
-## Contact
+## 👨‍💻 Developed by
+
+**Himanshu Panda**  
+🔗 [GitHub Profile](https://github.com/HimanshuPanda7777)
+
 
