@@ -90,6 +90,3 @@ Contributions are what make the open-source community such an amazing place to l
 
 ## Contact
 
-Ayush Raj - [GitHub](https://github.com/exclusiveabhi)
-
-Project Link: [https://github.com/exclusiveabhi/react-job-portal.git](https://github.com/exclusiveabhi/react-job-portal.git)
